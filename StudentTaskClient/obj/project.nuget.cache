@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtLpKIfd2AqTTuaH0vjdDQCVNbiGbqYcZcynhb4Rx9bfy/G+cMQRWByOFgaK3d6O2gJpjNgfca62T9xLuuBTqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rashad\\Desktop\\FileSerializeTask\\StudentTaskClient\\StudentTaskClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rashad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
