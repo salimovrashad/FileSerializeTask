@@ -65,6 +65,7 @@ namespace StudentTaskClient
             {
                 string stds = sr.ReadToEnd();
                 students = JsonConvert.DeserializeObject<List<Student>>(stds);
+                if (students == null){ students = new(); }
             }
             students.Add(student);
 
